@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *React*
 
-- 💬 Ask me about *HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, node js*
+- 💬 Ask me about *Flutter, Dart, Github, Firebase, Html, CSS, node js*
 
 - 📫 How to reach me *sijanpok55@gmail.com*
 
