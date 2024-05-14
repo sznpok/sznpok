@@ -6,7 +6,7 @@ https://miro.medium.com/v2/resize:fit:3200/1*vkfI4nFNheC5v0p7wzDtGg.gif
 <h3 align="center">A passionate Flutter Developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/941326/screenshots/8977728/media/d8d87cc990182d7dcafbde71fdf1d02b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushhh44&label=Profile%20views&color=0e75b6&style=flat" alt="aayushhh44" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushhh44&label=Profile%20views&color=0e75b6&style=flat" alt="sznpok" /> </p>
 
 - 🌱 I’m currently learning *Node JS*
 
