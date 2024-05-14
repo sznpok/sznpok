@@ -1,5 +1,5 @@
 ![MasterHead](
-https://media.licdn.com/dms/image/D4E12AQFqgP8d704vYg/article-cover_image-shrink_423_752/0/1657270275654?e=1720656000&v=beta&t=9s22B15T3ekqvs7NSblvXpxmRrg5HrfapbNvR6Se8qs
+https://miro.medium.com/v2/resize:fit:3200/1*vkfI4nFNheC5v0p7wzDtGg.gif
 )
 
 <h1 align="center">Hi 👋, I'm Sijan Pokharel</h1>
