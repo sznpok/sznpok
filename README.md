@@ -1,5 +1,5 @@
 ![MasterHead](
-https://drive.google.com/file/d/1YFX4vA0Q-l3A7L6WDXnxx8c-dWiamKsH/view?usp=share_link
+https://miro.medium.com/v2/resize:fit:3200/1*vkfI4nFNheC5v0p7wzDtGg.gif
 )
 
 <h1 align="center">Hi 👋, I'm Sijan Pokharel</h1>
